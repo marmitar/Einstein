@@ -26,3 +26,7 @@ Pergunta-se: Qual deles tem um PEIXE, qual sua bebida, que cigarro fuma e em que
 15. O homem que fuma Blend’s é vizinho do que bebe água
 
 ## [Solução](Solução.md)
+
+## O Programa
+
+![Modo de Uso](imagens/usage.png)
